@@ -1,5 +1,5 @@
 # Chartslib
-
+ 
 This is a simple script to plot financial data directly into Jupyter Notebook.
 
 ## Getting Started
